@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-devendra&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-devendra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadav-devendra" alt="yadav-devendra" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/devendra_______" target="blank"><img src="https://img.shields.io/twitter/follow/devendra_______?logo=twitter&style=for-the-badge" alt="devendra_______" /></a> </p>
 
 - 📫 How to reach me **yadavdevendra476@gmail.com**
