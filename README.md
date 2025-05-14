@@ -6,7 +6,7 @@
 
 I'm a passionate developer with a keen interest in Web Development and DevOps. I enjoy learning new technologies.
 
-- 🌱 I’m currently learning **[Spring Boot]**
+- 🌱 I’m currently learning **Spring Boot**
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative web applications**
 - 💬 Ask me about **Docker, Kubernetes, Terraform and Spring Boot**
 - 📫 How to reach me: **YadavDevendra@protonmail.com**
