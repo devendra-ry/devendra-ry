@@ -16,8 +16,8 @@ I'm a passionate developer with a keen interest in Web Development and DevOps. I
 
 ### Languages
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+![Spring Boot](https://img.shields.io/badge/-Spring-Boot-05122A?style=flat&logo=springboot)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 
 ### Frameworks and Libraries
