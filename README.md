@@ -15,7 +15,7 @@ I'm a passionate developer with a keen interest in Web Development and DevOps. I
 ## 🛠️ Skills
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
