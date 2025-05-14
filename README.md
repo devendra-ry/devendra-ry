@@ -1,16 +1,16 @@
 # Hi there, I'm Devendra Yadav! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yadav-Devendra&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=devendra-ry&color=blue)
 
 ## 🚀 About Me
 
-I'm a passionate developer with a keen interest in web development and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
+I'm a passionate developer with a keen interest in Web Development and DevOps. I enjoy learning new technologies.
 
-- 🌱 I’m currently learning **[Technology/Topic you are currently learning]**
+- 🌱 I’m currently learning **[Spring Boot]**
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative web applications**
-- 💬 Ask me about **JavaScript, React, Node.js, and Python**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **I love hiking and exploring new places!**
+- 💬 Ask me about **Docker, Kubernetes, Terraform and Spring Boot**
+- 📫 How to reach me: **YadavDevendra@protonmail.com**
+- ⚡ Fun fact: **I love reading books!**
 
 ## 🛠️ Skills
 
