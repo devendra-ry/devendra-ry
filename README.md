@@ -20,7 +20,7 @@ I'm a passionate developer with a keen interest in Web Development and DevOps. I
 
 ## 📈 GitHub Stats
 
-![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadav-Devendra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadav-Devendra&layout=compact&theme=radical)
+![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-ry&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-ry&layout=compact&theme=radical)
 
 ---
