@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=devendra-ry&color=blue)
 
 🚀 Hey there! I'm Devendra, a passionate developer with a knack for crafting seamless web experiences and building robust DevOps pipelines. I thrive on learning cutting-edge technologies and turning complex problems into elegant solutions.
-
 🔧 Currently diving into: Spring Boot – loving the power of Java in backend development!
 🤝 Open to collaborating on: Exciting open-source projects (Let’s build something awesome together!)
 💬 Let’s talk about: Docker, Kubernetes, Terraform, or anything Spring Boot – I’m all ears.
