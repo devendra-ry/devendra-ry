@@ -17,7 +17,9 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 
 ## 📈 GitHub Stats
-![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=devendra-ry&show_icons=true&theme=radical&show_rank=true&rank_icon=percentile)
+![Devendra's GitHub stats](https://github-readme-stats-one-opal-22.vercel.app/api?username=devendra-ry&show_icons=true&theme=radical&show_rank=true&rank_icon=percentile&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats-one-opal-22.vercel.app/api/top-langs/?username=devendra-ry&count_private=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-one-opal-22.vercel.app/api/top-langs/?username=devendra-ry&count_private=true&layout=compact&theme=radical&cache_seconds=1800)
+
+
 ---
