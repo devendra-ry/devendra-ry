@@ -7,7 +7,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=devendra-ry&label=Visitors&color=blueviolet&style=for-the-badge)](https://github.com/devendra-ry)
-[![Years Badge](https://badges.pufler.dev/years/devendra-ry?style=for-the-badge&color=blue&logo=github)](https://github.com/devendra-ry)
 
 </div>
 
@@ -167,16 +166,6 @@ mindmap
 <a href="https://dev.to/devendra_ry">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-devendra-ry.vercel.app/api/spotify)](https://open.spotify.com/user/devendra-ry)
 
 </div>
 
