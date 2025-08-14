@@ -100,46 +100,6 @@ const devendra = {
 
 ---
 
-## 🎯 What I'm Working On
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Devendra))
-    Learning
-      Spring Boot Microservices
-      Advanced Kubernetes
-      System Design Patterns
-    Building
-      CI/CD Pipelines
-      Cloud Infrastructure
-      Monitoring Solutions
-    Contributing
-      Open Source Projects
-      Technical Blog Posts
-      Community Mentoring
-```
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/devendra-ry">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devendra-ry&repo=awesome-project&theme=tokyonight" />
-</a>
-<a href="https://github.com/devendra-ry">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devendra-ry&repo=another-project&theme=tokyonight" />
-</a>
-
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
