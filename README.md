@@ -10,20 +10,15 @@
 
 </div>
 
----
-
 ## 🎯 About Me
 
-```javascript
-const devendra = {
-    pronouns: "he/him",
-    location: "India 🇮🇳",
-    currentFocus: "Building scalable systems & cloud infrastructure",
-    learning: ["Spring Boot", "Microservices", "Kubernetes"],
-    askMeAbout: ["DevOps", "Cloud Architecture", "System Design"],
-    funFact: "I debug with console.log and I'm proud of it! 😄"
-};
-```
+| Tech / Focus        | Comfort level |
+|---------------------|---------------|
+| Cloud Architecture  | ████████░░ 80 % |
+| Kubernetes          | ██████░░░░ 60 % |
+| Spring Boot         | ██████░░░░ 55 % |
+
+India 🇮🇳 • Building scalable systems by day, breaking side-projects by night.
 
 <div align="center">
 
