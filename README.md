@@ -16,7 +16,6 @@
 
 | Tech / Focus        | Comfort level |
 |---------------------|---------------|
-| Cloud Architecture  | ████████░░ 80 % |
 | Kubernetes          | ██████░░░░ 60 % |
 | Spring Boot         | ██████░░░░ 55 % |
 
