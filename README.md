@@ -98,9 +98,10 @@ India 🇮🇳 • Building scalable systems by day, breaking side-projects by n
 
 <div align="center">
 
-<a href="https://linkedin.com/in/devendra-yadav">
+<a href="https://linkedin.com/in/devendrary">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="500">
 <a href="https://twitter.com/devendra_ry">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
