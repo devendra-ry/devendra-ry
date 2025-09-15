@@ -10,6 +10,8 @@
 
 </div>
 
+<div align="center">
+  
 ## 🎯 About Me
 
 | Tech / Focus        | Comfort level |
@@ -19,11 +21,6 @@
 | Spring Boot         | ██████░░░░ 55 % |
 
 India 🇮🇳 • Building scalable systems by day, breaking side-projects by night.
-
-<div align="center">
-
-### 🌟 Current Mission
-*"Transforming ideas into scalable digital solutions, one commit at a time"*
 
 </div>
 
