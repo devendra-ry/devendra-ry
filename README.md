@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to My Digital Universe
+# Open-source experiments & half-baked brilliance.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Devendra+%F0%9F%91%8B;Full-Stack+Developer;DevOps+Engineer;Cloud+Architect;Problem+Solver" alt="Typing SVG" />
 
