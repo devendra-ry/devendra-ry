@@ -99,7 +99,7 @@ India 🇮🇳 • Building scalable systems by day, breaking side-projects by n
 <div align="center">
 
 <a href="https://linkedin.com/in/devendrary">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="30" height="30"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://twitter.com/devendra_ry">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
