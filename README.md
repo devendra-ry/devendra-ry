@@ -13,10 +13,3 @@ Backend engineer based in India, building scalable systems with Java and Spring 
 **Backend**: Java, Spring Boot, PostgreSQL, Redis  
 **DevOps**: Docker, Kubernetes, AWS, GitLab CI, Terraform  
 **Tools**: Git, Linux, React (basic)
-
-
-## Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devendrary)
-
-Currently open to backend engineering and DevOps opportunities.
