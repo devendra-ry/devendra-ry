@@ -14,16 +14,6 @@ Backend engineer based in India, building scalable systems with Java and Spring 
 **DevOps**: Docker, Kubernetes, AWS, GitLab CI, Terraform  
 **Tools**: Git, Linux, React (basic)
 
-## Notable Projects
-
-### [E-Commerce Microservices](link-to-repo)
-Scalable e-commerce backend with separate services for orders, payments, and inventory. Built with Spring Boot, PostgreSQL, and Docker.
-
-### [Kubernetes Deployment Automation](link-to-repo)
-Terraform modules and Helm charts for automating Kubernetes deployments on AWS EKS. Reduced deployment time from hours to minutes.
-
-### [API Rate Limiter](link-to-repo)
-Distributed rate limiting solution using Redis and Spring Boot. Handles 10,000+ requests per second with minimal latency.
 
 ## Get in Touch
 
