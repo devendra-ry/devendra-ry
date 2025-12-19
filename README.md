@@ -1,15 +1,14 @@
 # Hey, I'm Devendra 👋
 
-Backend engineer based in India, building scalable systems with Java and Spring Boot. I focus on cloud-native architectures and Kubernetes deployments.
+**Backend Engineer | India** 🇮🇳  
+Building resilient, cloud-native systems with Java & Spring Boot
 
-## What I'm Working On
+## 🚀 What I'm Working On
+- **Current Role**: Designing microservices architecture at scale
+- **Learning**: Advanced Kubernetes patterns & Terraform IaC
+- **Passion**: Distributed systems and DevOps automation
 
-- **Current Role**: Backend development with microservices architecture
-- **Learning**: Advanced Kubernetes patterns, Terraform for Infrastructure as Code (IaC)
-- **Interests**: Distributed systems, cloud infrastructure, and DevOps automation
-
-## Tech Stack
-
+## 💻 Tech Stack
 **Backend**: Java, Spring Boot, PostgreSQL, Redis  
 **DevOps**: Docker, Kubernetes, AWS, GitLab CI, Terraform  
-**Tools**: Git, Linux, React (basic)
+**Tools**: Git, Linux, React (UI integration)
