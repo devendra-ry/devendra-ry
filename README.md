@@ -1,43 +1,34 @@
-# Hey, I'm Devendra 👋
+# Devendra Yadav 👋
 
-**Backend Engineer based in India 🇮🇳**
+### DevOps Engineer | Cloud Automation | CI/CD | DevSecOps
 
-I build reliable and scalable backend systems using **Java, Spring Boot, and cloud-native technologies**. I'm especially interested in distributed systems, microservice architecture, infrastructure automation, and production reliability.
+I build secure, reliable, and repeatable delivery workflows for cloud-native applications, with a focus on AWS, Amazon EKS, Kubernetes, and Azure DevOps.
 
-## 🚀 What I'm Working On
+## What I do
 
-- Designing and developing scalable Java and Spring Boot microservices
-- Building reliable REST APIs and backend systems
-- Improving deployments using Kubernetes and Terraform
-- Exploring distributed systems, observability, and system design
+- Design CI/CD pipelines for build, test, security scanning, container image creation, and controlled releases.
+- Deploy and operate Kubernetes workloads on Amazon EKS using Helm, namespaces, RBAC, health probes, autoscaling, IRSA, and ingress.
+- Automate infrastructure and delivery workflows with Terraform, Azure Pipelines, GitHub Actions, and Argo CD.
+- Improve release security with JFrog Artifactory/Xray, Twistlock, HashiCorp Vault, and signed container images.
+- Monitor production systems with Prometheus and Grafana, and support troubleshooting, rollbacks, runbooks, and root-cause analysis.
 
-## 🛠️ Tech Stack
+## Tech stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+**Cloud & Platform:** AWS, Amazon EKS, Kubernetes, Helm, Docker, Terraform
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+**CI/CD & DevSecOps:** Azure DevOps, Azure Pipelines, GitHub Actions, Argo CD, JFrog Artifactory, JFrog Xray, Twistlock, HashiCorp Vault
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+**Observability & Scripting:** Prometheus, Grafana, Bash, Python, Git, Linux
 
-## 📚 Currently Learning
+## Impact highlights
 
-- Advanced Kubernetes deployment patterns
-- Infrastructure as Code with Terraform
-- Distributed system design and resilience patterns
-- Monitoring, logging, and application observability
+- Onboarded 10+ applications to Amazon EKS with Kubernetes and Helm.
+- Reduced manual deployment effort by 60% through artifact automation and dependency caching.
+- Improved deployment success by 15% by resolving critical CI/CD and runtime issues.
+- Accelerated critical CVE remediation by 30% through automated security gates.
 
-## 🤝 Let's Connect
+## Connect
 
-I'm always interested in discussing backend engineering, cloud infrastructure, DevOps, and scalable system design.
+- [LinkedIn](https://www.linkedin.com/in/devendrary)
+
+Open to conversations about DevOps, cloud infrastructure, CI/CD automation, DevSecOps, and reliable production systems.
