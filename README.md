@@ -37,9 +37,6 @@
 <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=devendra-ry&show_icons=true&hide_rank=true&count_private=true&hide=contribs&card_width=467&custom_title=GitHub%20Stats&bg_color=FFFFFF&title_color=1F2328&text_color=3D444D&icon_color=0969DA&border_color=D0D7DE&border_radius=10" />
 <img width="49%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-ry&layout=compact&card_width=467&bg_color=FFFFFF&title_color=1F2328&text_color=3D444D&icon_color=0969DA&border_color=D0D7DE&border_radius=10" />
 
-<br/><br/>
-
-<img width="98%" alt="Contribution graph" src="https://ghchart.rshah.org/0969da/devendra-ry" />
 
 </div>
 
