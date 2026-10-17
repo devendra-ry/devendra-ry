@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif">
+<title>Devendra Yadav - DevOps Engineer</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#4338ca"/><stop offset=".38" stop-color="#7c3aed"/><stop offset=".72" stop-color="#db2777"/><stop offset="1" stop-color="#f97316"/>
+<animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="24s" repeatCount="indefinite"/>
+</linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".09"/></pattern>
+<clipPath id="r"><rect width="1000" height="300" rx="26"/></clipPath>
+<clipPath id="typ"><rect class="typ" x="60" y="228" width="614.4" height="30"/></clipPath>
+<filter id="sh" x="-5%" y="-20%" width="110%" height="150%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#1e1b4b" flood-opacity=".35"/></filter>
+</defs>
+<style>
+.b{animation:fl 9s ease-in-out infinite alternate}
+.b1{animation-duration:12s;animation-delay:-3s}.b2{animation-duration:7s}.b3{animation-duration:10s;animation-delay:-5s}.b4{animation-duration:8s;animation-delay:-2s}
+@keyframes fl{from{transform:translate(0,0)}to{transform:translate(24px,-22px)}}
+.name{animation:up .9s cubic-bezier(.2,.8,.2,1) both}
+.role{animation:up .9s .25s cubic-bezier(.2,.8,.2,1) both}
+@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.pill{animation:pop .6s cubic-bezier(.2,1.4,.4,1) both;transform-box:fill-box;transform-origin:center}
+@keyframes pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:scale(1)}}
+.typ{animation:ty 7s steps(60,end) infinite}
+@keyframes ty{0%{width:0}55%{width:614.4px}92%{width:614.4px}100%{width:0}}
+.cur{animation:cu 7s steps(60,end) infinite}
+@keyframes cu{0%{transform:translateX(0)}55%{transform:translateX(614.4px)}92%{transform:translateX(614.4px)}100%{transform:translateX(0)}}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<g clip-path="url(#r)">
+<rect width="1000" height="300" fill="url(#bg)"/>
+<rect width="1000" height="300" fill="url(#grid)"/>
+<circle class="b b0" cx="120" cy="60" r="90" fill="#fff" opacity="0.08"/><circle class="b b1" cx="880" cy="230" r="120" fill="#fff" opacity="0.08"/><circle class="b b2" cx="760" cy="40" r="50" fill="#fff" opacity="0.1"/><circle class="b b3" cx="300" cy="270" r="60" fill="#fff" opacity="0.07"/><circle class="b b4" cx="950" cy="90" r="35" fill="#fff" opacity="0.12"/>
+<g filter="url(#sh)">
+<text class="name" x="60" y="108" font-size="68" font-weight="800" fill="#fff" letter-spacing="-1">Devendra Yadav</text>
+</g>
+<text class="role" x="62" y="146" font-size="23" font-weight="500" fill="#fff" fill-opacity=".95">DevOps Engineer  |  Cloud Automation  |  CI/CD  |  DevSecOps</text>
+<g class="pill" style="animation-delay:0.6s"><rect x="60" y="168" width="66" height="34" rx="17" fill="#fff" fill-opacity=".18" stroke="#fff" stroke-opacity=".55"/><text x="93.0" y="190" text-anchor="middle" font-size="15" font-weight="600" fill="#fff">AWS</text></g><g class="pill" style="animation-delay:0.72s"><rect x="138" y="168" width="136" height="34" rx="17" fill="#fff" fill-opacity=".18" stroke="#fff" stroke-opacity=".55"/><text x="206.0" y="190" text-anchor="middle" font-size="15" font-weight="600" fill="#fff">Kubernetes</text></g><g class="pill" style="animation-delay:0.84s"><rect x="286" y="168" width="126" height="34" rx="17" fill="#fff" fill-opacity=".18" stroke="#fff" stroke-opacity=".55"/><text x="349.0" y="190" text-anchor="middle" font-size="15" font-weight="600" fill="#fff">Terraform</text></g><g class="pill" style="animation-delay:0.96s"><rect x="424" y="168" width="86" height="34" rx="17" fill="#fff" fill-opacity=".18" stroke="#fff" stroke-opacity=".55"/><text x="467.0" y="190" text-anchor="middle" font-size="15" font-weight="600" fill="#fff">CI/CD</text></g><g class="pill" style="animation-delay:1.08s"><rect x="522" y="168" width="126" height="34" rx="17" fill="#fff" fill-opacity=".18" stroke="#fff" stroke-opacity=".55"/><text x="585.0" y="190" text-anchor="middle" font-size="15" font-weight="600" fill="#fff">DevSecOps</text></g>
+<rect x="40" y="222" width="920" height="44" rx="10" fill="#0b1020" fill-opacity=".45"/>
+<g clip-path="url(#typ)"><text x="60" y="250" font-family="'Fira Code','JetBrains Mono','Consolas','Courier New',monospace" font-size="16" fill="#a7f3d0" textLength="614.4" lengthAdjust="spacingAndGlyphs">$ kubectl rollout status deploy/app  -&gt;  deployed, zero downtime</text></g>
+<g class="cur"><rect class="blink" x="60" y="232" width="9" height="22" fill="#fde68a"/></g>
+</g>
+</svg>
